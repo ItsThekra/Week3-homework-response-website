@@ -318,12 +318,6 @@ footer {
     font-weight: 400;
     color: #37434e;
 }
-
-.email input:focus {
-    box-shadow: 0 0 10px #135cfa;
-    transition: all 0.3s ease-in-out;
-}
-
 .email button {
     background-color: #135cfa;
     cursor: pointer;
